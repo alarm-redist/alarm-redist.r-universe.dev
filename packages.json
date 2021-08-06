@@ -1,7 +1,6 @@
 [
   {
     "package": "redist",
-    "url": "https://github.com/alarm-redist/redist",
-    "branch" : "dev"
+    "url": "https://github.com/alarm-redist/redist"
   }
 ]
