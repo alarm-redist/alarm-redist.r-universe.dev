@@ -3,5 +3,33 @@
     "package": "redist",
     "url": "https://github.com/alarm-redist/redist",
     "branch": "dev"
+  },
+    {
+    "package": "geomander",
+    "url": "https://github.com/christopherkenny/geomander"
+  },
+  {
+    "package": "PL94171",
+    "url": "https://github.com/CoryMcCartan/PL94171"
+  },
+  {
+    "package": "wru",
+    "url": "https://github.com/kosukeimai/wru"
+  },
+    {
+    "package": "censable",
+    "url": "https://github.com/christopherkenny/censable"
+  },
+  {
+    "package": "blockpop",
+    "url": "https://github.com/CoryMcCartan/blockpop"
+  }
+  {
+    "package": "divseg",
+    "url": "https://github.com/christopherkenny/divseg"
+  },
+  {
+    "package": "ppmf",
+    "url": "https://github.com/christopherkenny/ppmf"
   }
 ]
