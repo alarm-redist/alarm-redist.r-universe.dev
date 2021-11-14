@@ -4,6 +4,10 @@
     "url": "https://github.com/alarm-redist/redist",
     "branch": "dev"
   },
+  {
+    "package": "redist",
+    "url": "https://github.com/alarm-redist/redistmetrics"
+  },
     {
     "package": "geomander",
     "url": "https://github.com/christopherkenny/geomander"
