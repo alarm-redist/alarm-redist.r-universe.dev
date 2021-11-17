@@ -5,7 +5,7 @@
     "branch": "dev"
   },
   {
-    "package": "redist",
+    "package": "redistmetrics",
     "url": "https://github.com/alarm-redist/redistmetrics"
   },
     {
