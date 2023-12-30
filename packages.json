@@ -8,6 +8,10 @@
     "package": "redistmetrics",
     "url": "https://github.com/alarm-redist/redistmetrics"
   },
+  {
+    "package": "ggredist",
+    "url": "https://github.com/alarm-redist/ggredist"
+  },
     {
     "package": "geomander",
     "url": "https://github.com/christopherkenny/geomander"
